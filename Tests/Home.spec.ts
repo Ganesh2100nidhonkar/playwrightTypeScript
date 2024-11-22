@@ -7,7 +7,7 @@ test.beforeEach('Launch Application', async({ BasePageObj }) => {
 
 });
 
-test.describe('Home Page Tests', () => {
+test.describe('HomePage Tests', () => {
     
     test('should navigate to Account Overview', async ({ page, HomePageObj }) => {
         
